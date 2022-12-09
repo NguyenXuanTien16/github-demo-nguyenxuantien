@@ -2,4 +2,8 @@ im lulu
 hello he xi liili
 dm
 ddeo
+<<<<<<< HEAD
 1
+=======
+
+>>>>>>> e7be173d12d29c60f7e326ad5fa22cd3d3109ce6
